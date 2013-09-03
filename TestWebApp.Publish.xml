@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\proj\pub\TestWebApp" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="FileSystem" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="05/18/2012 09:15:15" />
+    <file relUrl="bin/TestWebApp.pdb" publishTime="05/18/2012 09:57:22" />
+    <file relUrl="bin/Nancy.Hosting.Aspnet.dll" publishTime="05/18/2012 09:15:20" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="05/18/2012 09:15:15" />
+    <file relUrl="Web.config" publishTime="05/18/2012 09:57:22" />
+    <file relUrl="bin/Nancy.dll" publishTime="05/18/2012 09:15:20" />
+    <file relUrl="packages.config" publishTime="05/18/2012 09:15:20" />
+    <file relUrl="bin/TestWebApp.dll" publishTime="05/18/2012 09:57:22" />
+  </publishProfile>
+</publishData>
